@@ -1,0 +1,19 @@
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\MainWindow.g.cs
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\App.g.cs
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator_MarkupCompile.cache
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator_MarkupCompile.lref
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.exe.config
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.exe
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.pdb
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\MainWindow.baml
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.g.resources
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random_Number_Generator.Properties.Resources.resources
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.exe
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.pdb
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.exe.manifest
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\bin\Debug\Random Number Generator.application
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.exe.manifest
+C:\Users\tyler\source\repos\Random Number Generator\Random Number Generator\obj\Debug\Random Number Generator.application
